@@ -45139,16 +45139,18 @@
         "logos-module-builder": "logos-module-builder_18"
       },
       "locked": {
-        "lastModified": 1784841022,
-        "narHash": "sha256-s6gn5lAPdpqLyBpIyI/Y3aAwpx0/U6SuBmsXXPS+dv8=",
+        "dir": "core",
+        "lastModified": 1786310867,
+        "narHash": "sha256-qPrq+Yo5r1umQ4TeupDvcrIkFKtDRfIxGSRLC1lssQ0=",
         "owner": "hackyguru",
-        "repo": "logos-wallet-core",
-        "rev": "4a471b48678d1d4b0554e847e097afc13cdfc96f",
+        "repo": "persona",
+        "rev": "2f2d25ec63e42ceae6f137f1ae09fa5a4b378780",
         "type": "github"
       },
       "original": {
+        "dir": "core",
         "owner": "hackyguru",
-        "repo": "logos-wallet-core",
+        "repo": "persona",
         "type": "github"
       }
     },
